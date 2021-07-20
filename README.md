@@ -5,7 +5,7 @@
 개발 기간 : 2019.04 ~ 2019.08  
 
 주관 : [한양대학교 Acelab](https://www.acelab.org/post/2019-%EC%A7%80%EB%8A%A5%ED%98%95-%EB%AA%A8%ED%98%95%EC%B0%A8-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EA%B0%9C%EC%B5%9C)
-후원 : Mathworks, Infineon
+후원 : Mathworks, Infineon, Continental, Mando
 
 [개발완료 보고서 PDF](./PDF/2019_한양대지능형모형차대회_보고서.pdf)
 
@@ -14,7 +14,7 @@
 |팀원|맡은 역할|
 |:---------:|:---:|
 |[이진호<br>(팀장)](https://github.com/StylishPanther)| 전체 지휘 총괄 및 일정 조율, PID 제어기, 주행 알고리즘 설계 |
-|고승일| Framework 기반 Firmware 설정  |
+|[고승일](https://github.com/gseung)| Framework 기반으로 Firmware 설정  |
 |박찬희| 장애물 회피 알고리즘 구현 |
 |김원석|하드웨어 시뮬레이션 (Solidworks)| 
 |이장훈|하드웨어 시뮬레이션 (Solidworks)|   
