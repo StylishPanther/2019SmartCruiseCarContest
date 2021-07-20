@@ -7,7 +7,7 @@
 주관 : [한양대학교 Acelab](https://www.acelab.org/post/2019-%EC%A7%80%EB%8A%A5%ED%98%95-%EB%AA%A8%ED%98%95%EC%B0%A8-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EA%B0%9C%EC%B5%9C)
 후원 : Mathworks, Infineon, Continental, Mando
 
-[개발완료 보고서 PDF](./PDF/2019_한양대지능형모형차대회_보고서.pdf)
+최종 보고서 : [개발완료 보고서 PDF](./PDF/2019_한양대지능형모형차대회_보고서.pdf)
 
 대회 결과 : [Mathworks 특별상](./PDF/2019_한양대학교_MATHWORKS_특별상.pdf)
 
