@@ -138,7 +138,7 @@ Pixel간 거리를 측정하여서 에커만 조향이론을 바탕으로 결정
 ### 전원부 레귤레이터 방열 설계
 
 <br>
-<p align="center"><img src="./Images/Regulator.png" > 
+<p align="center"><img src="./Images/regulator.PNG" > 
 
 TLE-4271-2는 최대 0.5A, 평균적으로 0.3A정도의 전류가 흘렀고, LM7803에는 평균적으로 0.5A가
 흘렀는데 DataSheet를 참고해 각 상수를 얻어서 식(3)을 바탕으로 소자가 견딜 수 있는 한계 온도를
