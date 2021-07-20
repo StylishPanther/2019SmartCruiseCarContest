@@ -138,7 +138,7 @@ Pixel간 거리를 측정하여서 에커만 조향이론을 바탕으로 결정
 ### 전원부 레귤레이터 방열 설계
 
 <br>
-<p align="center"><img src="./Images/regulator.png" > 
+<p align="center"><img src="./Images/Regulator.png" > 
 
 TLE-4271-2는 최대 0.5A, 평균적으로 0.3A정도의 전류가 흘렀고, LM7803에는 평균적으로 0.5A가
 흘렀는데 DataSheet를 참고해 각 상수를 얻어서 식(3)을 바탕으로 소자가 견딜 수 있는 한계 온도를
@@ -157,7 +157,7 @@ TLE-4271-2는 최대 0.5A, 평균적으로 0.3A정도의 전류가 흘렀고, LM
 무게값을 통해 계산된 가중치(포지션)을 통해서 현재 위치에서 어느 정도 움직여야 하는지 최소 이동
 거리와, 최소 조향각을 계산하여서 라인을 검출할 때 마다 계산하여 Line Tracking을 구현하였다.
 <p align="center"><img src="./Images/ackerman.png" >
-<p align="center" width="240px" height="240px">< 에커만 조향 이론  >
+<p align="center" width="200px" height="200px">< 에커만 조향 이론  >
 
 
 ## Reference
