@@ -14,10 +14,10 @@
 |팀원|맡은 역할|
 |:---------:|:---:|
 |[이진호<br>(팀장)](https://github.com/StylishPanther)| 전체 지휘 총괄 및 일정 조율, PID 제어기, 주행 알고리즘 설계 |
-|[고승일]| Framework 기반 Firmware 설정  |
-|[박찬희]| 장애물 회피 알고리즘 구현 |
-|[김원석]|하드웨어 시뮬레이션 (Solidworks)| 
-|[이장훈]|하드웨어 시뮬레이션 (Solidworks)|   
+|고승일| Framework 기반 Firmware 설정  |
+|박찬희| 장애물 회피 알고리즘 구현 |
+|김원석|하드웨어 시뮬레이션 (Solidworks)| 
+|이장훈|하드웨어 시뮬레이션 (Solidworks)|   
 
 ## 작품 목표    
 <br>
