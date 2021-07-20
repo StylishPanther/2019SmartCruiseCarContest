@@ -45,7 +45,7 @@
 <p align="center"><img src="./Images/Video_03.gif" width="360px"></p>  
 <p align="center"> < Roburtness for Driving Environment (Light) 테스트 (Velocity : 1000mm/s)></p>
  
-<p align="center"><img src="./Images/front.png" width="180px" height="160px"> <img src="./Images/side.png" width="180px" height="160px"></p>  
+<p align="center"><img src="./Images/Front.png" width="180px" height="160px"> <img src="./Images/Side.png" width="180px" height="160px"></p>  
 <p align="center"> < Autonomotive Car ( Width : 300mm Column : 450mm Height : 300mm ) ></p>  
 
 
