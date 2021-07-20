@@ -45,7 +45,7 @@
 <p align="center"><img src="Images/Video_03.gif" width="360px"></p>  
 <p align="center"> < Roburtness for Driving Environment (Light) 테스트 (Velocity : 1000mm/s)></p>
  
-<p align="center"><img src="Images/front.png" width="180px" height="160px"> <img src="Images/side.png" width="180px" height="160px"></p>  
+<p align="center"><img src="./Images/front.png" width="180px" height="160px"> <img src="./Images/side.png" width="180px" height="160px"></p>  
 <p align="center"> < Autonomotive Car ( Width : 300mm Column : 450mm Height : 300mm ) ></p>  
 
 
@@ -81,11 +81,7 @@
 자율주행 알고리즘을 개발하면서 가장 핵심이 되는 부분은 Interrupt Scheduler 설계이다. 
 Interrupt를 1ms Cycle로 하면서 구동부, 조향부, 센서부 제어를 안정적으로 하면서 다음 인터럽트에 영향을
 미치는 Pending 현상을 방지하기 위해서 처리 시간까지 감안하여 자체적으로 설계를 하였다.
-<p align="center"><img src="./Images/interrupt_scheduler.JPG"> 
-<!--
-<p align="center">
-<img width="600"  src="Image/Hardware.png">
-</p> 
+<p align="center"><img src="./Images/interrupt_scheduler.JPG"></p>
 
 ### Line Camera Signal Processing
 
@@ -93,20 +89,13 @@ Line Camera 로 받은 128개의 Pixel 값을 Median Filtering을 통해서 Ripp
 검은색과 흰색의 명확한 값 차이를 주기 위해서 라인을 놓치지 않는 선에서 센서값을 주는 시간에 일
 정 시간 Delay를 주어서 보다 명확하게 값을 인식하게 하였다. 환경에 따라서 값이 달라질 수 있는 가
 능성을 고려하여 128개의 Pixel 중에 가운데 100개의 Pixel을 추출했다.
-<p align="center"><img src="./Images/median_before">
-<p align="center"><img src="./Images/median_after">
-
+<p align="center"><img src="./Images/median_before"></p>
+<p align="center"><img src="./Images/median_after"></p>
+<>
 
 ## System Architecture  
 
-<p align="center">
-<img width="600"  src="Image/system_Architecture1.JPG">
-</p> 
 
-<p align="center">
-<img width="600"  src="Image/system_Architecture2.JPG">
-</p> 
--->
 
 ## Reference
 - [AurixRacer](./docs/index.md)
