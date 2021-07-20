@@ -9,7 +9,7 @@
 
 [개발완료 보고서 PDF](./PDF/2019_한양대지능형모형차대회_보고서.pdf)
 
-[Mathworks 특별상](./PDF/2019_한양대학교_MATHWORKS_특별상.pdf)
+대회 결과 : [Mathworks 특별상](./PDF/2019_한양대학교_MATHWORKS_특별상.pdf)
 
 ## 팀원 구성
 
