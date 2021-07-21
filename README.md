@@ -19,7 +19,7 @@
 |[고승일](https://github.com/gseung)| Framework 기반으로 Firmware 설정  |
 |박찬희| 장애물 회피 알고리즘 구현 |
 |김원석|하드웨어 시뮬레이션 (Solidworks)| 
-|이장훈|하드웨어 시뮬레이션 (Solidworks)|   
+|[이장훈](https://github.com/magatriod7)|하드웨어 시뮬레이션 (Solidworks)|   
 
 ## 작품 목표    
 <br>
